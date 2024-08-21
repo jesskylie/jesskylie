@@ -1,8 +1,7 @@
-👋 Hi, I'm Jess Kylie!
+👋 #Hi, I'm Jessica!
 
 I'm a 2nd-year Computer Science student with a background in nursing, passionate about coding and problem-solving.
 
-🚀 Let’s connect and collaborate!
 
 **I love working with**
 
@@ -28,6 +27,7 @@ I'm a 2nd-year Computer Science student with a background in nursing, passionate
   </a>
 </div>
 
+🚀 Let’s connect and collaborate!
 
 
 
