@@ -1,4 +1,4 @@
-👋 # Hi, I'm Jessica!
+# 👋 Hi, I'm Jessica!
 
 I'm a 2nd-year Computer Science student with a background in nursing, passionate about coding and problem-solving.
 
