@@ -1,3 +1,9 @@
+👋 Hi, I'm Jess Kylie!
+
+I'm a 2nd-year Computer Science student with a background in nursing, passionate about coding and problem-solving.
+
+🚀 Let’s connect and collaborate!
+
 **I love working with**
 
 <div display="flex">
